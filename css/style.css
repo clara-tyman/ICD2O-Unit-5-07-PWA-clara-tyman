@@ -4,7 +4,7 @@
 */
 
 body {
-  background-color: rgb(214 181 236);
+  background-color: rgb(72, 166, 94);
 }
 
 .content {
@@ -19,6 +19,14 @@ body {
 .mdl-layout__content {
   padding-left: 20px;
   padding-top: 20px;
+}
+
+.mdl-textfield-mdl-js-textfield {
+  color: black;
+}
+
+.mdl-textfield__label {
+  color: #ffffff;
 }
 
 /* Clear floats after the columns */
